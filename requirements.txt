@@ -34,7 +34,7 @@ decorator==5.1.1
     # via ipython
 distlib==0.3.8
     # via virtualenv
-dulwich==0.21.7
+dulwich==0.22.6
     # via poetry
 execnet==2.1.1
     # via pytest-xdist
